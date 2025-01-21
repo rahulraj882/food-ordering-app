@@ -1,0 +1,26 @@
+.resmenu-container {
+  flex: 1 1 0;
+  width: 100%;
+  padding: 0 16px;
+}
+.res-menu-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 24px 0;
+  border-bottom: 1px dashed var(--light-gray);
+}
+.res-header-left {
+  width: 50%;
+}
+.res-menu-container {
+  padding: 40px 0;
+}
+.resmenu-main-wrapper {
+  display: flex;
+  align-items: flex-start;
+}
+.chat-box-wrapper {
+  max-width: 350px;
+  width: 100%;
+}
